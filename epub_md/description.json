@@ -1,0 +1,24 @@
+{
+"metadata":{
+    "dc:title":"Archspire Prognotes",
+    "dc:creator":"Karlo Doroc",
+    "dc:language":"en-US",
+    "dc:identifier":"archspire-prognotes",
+    "dc:source":"https://www.heavyblogisheavy.com/tag/prognotes/",
+    "meta":"",
+    "dc:date":"2024-07-28",
+    "dc:publisher":"André Søberg",
+    "dc:contributor":"André Søberg",
+    "dc:rights":"Karlo Doroc / https://www.heavyblogisheavy.com",
+    "dc:description":"",
+    "dc:subject":""
+    },
+"cover_image":"cover.jpg",
+"default_css":["code_styles.css","general.css"],
+"chapters":[
+            {"markdown":"01_Attributions.md","css":""},
+            {"markdown":"02_TheLucidCollective.md","css":""},
+            {"markdown":"03_RelentlessMutation.md","css":""},
+            {"markdown":"04_BleedTheFuture.md","css":""}
+        ]
+}
